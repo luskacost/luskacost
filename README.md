@@ -129,7 +129,7 @@ Prazer, sou o Lucas e atualmente estudante de Analise e Desenvolvimento de Siste
 
 ### 📫 Entre em Contato
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-costa-914a09348/)
 - [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasguimaraes0209@gmail.com)
 
 
